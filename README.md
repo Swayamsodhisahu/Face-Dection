@@ -30,7 +30,7 @@ face-detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/face-detection.git
+git clone https://github.com/Swayamsodhisahu/Face-Dection
 cd face-detection
 ```
 ### 2. Create a Virtual Environment (Optional)
