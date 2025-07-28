@@ -32,5 +32,22 @@ face-detection/
 ```bash
 git clone https://github.com/your-username/face-detection.git
 cd face-detection
-
+```
 ### 2. Create a Virtual Environment (Optional)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # For Windows: venv\Scripts\activate
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Application
+
+```bash
+python detect_faces.py
+```
